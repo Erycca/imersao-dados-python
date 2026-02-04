@@ -1,0 +1,6 @@
+[theme]
+primaryColor = "#3e5c76"               # Botões, selects, sliders
+backgroundColor = "#3e5c76"            # Fundo da página
+secondaryBackgroundColor = "#3e5c76"   # Sidebar, cards
+textColor = "#CAF0F8"                  # Texto
+font = "sans serif"
