@@ -46,13 +46,7 @@ Importação de um dataset público contendo informações salariais da área de
 
 Criação de filtros interativos
 
-Ano
-
-Senioridade
-
-Tipo de contrato
-
-Tamanho da empresa
+Ano /  Senioridade  /  Tipo de contrato  /  Tamanho da empresa
 
 Filtragem dinâmica do DataFrame
 
@@ -60,13 +54,7 @@ Aplicação simultânea de múltiplos filtros usando Pandas.
 
 Cálculo de métricas (KPIs)
 
-Salário médio
-
-Salário máximo
-
-Total de registros
-
-Cargo mais frequente
+Salário médio / Salário máximo  / Total de registros / Cargo mais frequente
 
 Visualizações
 
